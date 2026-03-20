@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Workshop AI.iml" filepath="$PROJECT_DIR$/.idea/Workshop AI.iml" />
+    </modules>
+  </component>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/workshop2.iml" filepath="$PROJECT_DIR$/.idea/workshop2.iml" />
+    </modules>
+  </component>
+>>>>>>> f7a0b21187ec4ad9e372d770be52bba3f5ce05cf
+</project>
